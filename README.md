@@ -500,9 +500,13 @@ My goal is to explore how **Artificial Intelligence**, **information systems**, 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Oshini-Sandunika&show_icons=true&hide_border=true&border_radius=14&title_color=52725A&icon_color=7FA386&text_color=52635A&bg_color=F8F9F4&include_all_commits=true&count_private=true" alt="Oshini's GitHub statistics"/>
+<img width="49%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oshini-Sandunika&theme=vue&title_color=52725A&text_color=52635A&bg_color=F8F9F4&border_color=DCEAD7&icon_color=7FA386"
+       alt="Oshini Sandunika's GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshini-Sandunika&layout=compact&hide_border=true&border_radius=14&title_color=52725A&text_color=52635A&bg_color=F8F9F4&langs_count=8" alt="Oshini's most used programming languages"/>
+  <img width="49%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oshini-Sandunika&theme=vue&title_color=52725A&text_color=52635A&bg_color=F8F9F4&border_color=DCEAD7&chart_color=7FA386"
+       alt="Oshini Sandunika's most used programming languages"/>
 
 <br/><br/>
 
