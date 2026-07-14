@@ -518,10 +518,6 @@ My goal is to explore how **Artificial Intelligence**, **information systems**, 
 
 <br/><br/>
 
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=Oshini-Sandunika&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Oshini's GitHub profile trophies"/>
-
-<br/><br/>
-
 ### 🌸 Profile Visitors
 
 <img src="https://komarev.com/ghpvc/?username=Oshini-Sandunika&label=Profile%20Visitors&color=8FAF93&style=for-the-badge" alt="GitHub profile visitor counter"/>
