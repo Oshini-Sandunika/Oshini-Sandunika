@@ -17,7 +17,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Dean's%20List-Recipient-DDE8D5?style=for-the-badge&labelColor=F8F4E8&color=A8C3A0" alt="Dean's List Recipient"/>
 <img src="https://img.shields.io/badge/Research-Publication%20Experience-E4F1E8?style=for-the-badge&labelColor=F8F4E8&color=9DB7A0" alt="Research Publication Experience"/>
 <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-DCF2E4?style=for-the-badge&labelColor=F8F4E8&color=87A98F" alt="Open to internships and collaborations"/>
 
@@ -288,12 +287,10 @@ A pet adoption platform designed to connect pets with suitable adopters through 
 
 <!-- REPLACE the URL below with the Pawfect repository link -->
 
-[![View Project](https://img.shields.io/badge/View%20Project-Repository-A8C3A0?style=for-the-badge\&logo=github\&logoColor=355E3B\&labelColor=F8F4E8)](https://github.com/YOUR_USERNAME/PAWFECT_REPOSITORY)
+[![View Project](https://img.shields.io/badge/View%20Project-Repository-A8C3A0?style=for-the-badge\&logo=github\&logoColor=355E3B\&labelColor=F8F4E8)](https://github.com/Oshini-Sandunika/Pawfect.git)
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🎵 MusicHive
@@ -311,11 +308,12 @@ A full-stack music platform created to deliver an engaging digital environment f
 
 `React` `Node.js` `Express.js` `MongoDB`
 
-<!-- REPLACE the URL below with the MusicHive repository link -->
 
-[![View Project](https://img.shields.io/badge/View%20Project-Repository-A8C3A0?style=for-the-badge\&logo=github\&logoColor=355E3B\&labelColor=F8F4E8)](https://github.com/YOUR_USERNAME/MUSICHIVE_REPOSITORY)
+[![View Project](https://img.shields.io/badge/View%20Project-Repository-A8C3A0?style=for-the-badge\&logo=github\&logoColor=355E3B\&labelColor=F8F4E8)](https://github.com/Rivindu13/MusicHive.git)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📊 Student Performance Predictor
@@ -333,32 +331,8 @@ A machine learning application that analyzes academic information and predicts s
 
 `Python` `Machine Learning` `Random Forest`
 
-<!-- REPLACE the URL below with the Student Performance Predictor repository link -->
 
-[![View Project](https://img.shields.io/badge/View%20Project-Repository-A8C3A0?style=for-the-badge\&logo=github\&logoColor=355E3B\&labelColor=F8F4E8)](https://github.com/YOUR_USERNAME/STUDENT_PERFORMANCE_REPOSITORY)
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center" valign="top">
-
-### 🐾 Smart Pet Feeder — Pawsome
-
-An IoT-based smart pet feeder concept designed to support responsible pet care through automated and connected features.
-
-**Proposed Features**
-
-`Automated Feeding`   `Medicine Dispensing`   `Remote Monitoring`
-`Feeding Schedules`   `Smart Notifications`   `Pet-Care Insights`
-
-**Technology Areas**
-
-`Internet of Things` `Embedded Systems` `Mobile Integration` `Automation`
-
-<!-- REPLACE the URL below with the Pawsome repository or project link -->
-
-[![View Project](https://img.shields.io/badge/View%20Project-Repository-A8C3A0?style=for-the-badge\&logo=github\&logoColor=355E3B\&labelColor=F8F4E8)](https://github.com/YOUR_USERNAME/PAWSOME_REPOSITORY)
+[![View Project](https://img.shields.io/badge/View%20Project-Repository-A8C3A0?style=for-the-badge\&logo=github\&logoColor=355E3B\&labelColor=F8F4E8)](https://github.com/Oshini-Sandunika/StudentPerformancePredictor.git)
 
 </td>
 </tr>
@@ -382,7 +356,7 @@ An IoT-based smart pet feeder concept designed to support responsible pet care t
   <h3>🏅</h3>
   <b>Dean's List Award</b>
   <br/><br/>
-  Recognized for academic excellence at the Faculty of Computing.
+  Recognized for academic excellence at the Faculty of Computing - SLIIT.
 </td>
 <td align="center" width="25%">
   <h3>📚</h3>
@@ -524,34 +498,29 @@ My goal is to explore how **Artificial Intelligence**, **information systems**, 
 
 ## 📈 GitHub Analytics
 
-<!--
-  REPLACE every occurrence of YOUR_USERNAME with your exact GitHub username.
-  GitHub usernames are case-insensitive, but using the exact spelling is recommended.
--->
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&border_radius=14&title_color=52725A&icon_color=7FA386&text_color=52635A&bg_color=F8F9F4&include_all_commits=true&count_private=true" alt="Oshini's GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Oshini-Sandunika&show_icons=true&hide_border=true&border_radius=14&title_color=52725A&icon_color=7FA386&text_color=52635A&bg_color=F8F9F4&include_all_commits=true&count_private=true" alt="Oshini's GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&border_radius=14&title_color=52725A&text_color=52635A&bg_color=F8F9F4&langs_count=8" alt="Oshini's most used programming languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&border_radius=14&background=F8F9F4&ring=7FA386&fire=9AAD82&currStreakLabel=52725A&sideLabels=52635A&currStreakNum=355E3B&sideNums=355E3B&dates=7B887F" alt="Oshini's GitHub contribution streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshini-Sandunika&layout=compact&hide_border=true&border_radius=14&title_color=52725A&text_color=52635A&bg_color=F8F9F4&langs_count=8" alt="Oshini's most used programming languages"/>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=F8F9F4&color=52725A&line=87A98F&point=355E3B&area=true&area_color=CFE3D2&hide_border=true&radius=14" alt="Oshini's GitHub contribution activity graph"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Oshini-Sandunika&hide_border=true&border_radius=14&background=F8F9F4&ring=7FA386&fire=9AAD82&currStreakLabel=52725A&sideLabels=52635A&currStreakNum=355E3B&sideNums=355E3B&dates=7B887F" alt="Oshini's GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Oshini's GitHub profile trophies"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Oshini-Sandunika&bg_color=F8F9F4&color=52725A&line=87A98F&point=355E3B&area=true&area_color=CFE3D2&hide_border=true&radius=14" alt="Oshini's GitHub contribution activity graph"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=Oshini-Sandunika&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Oshini's GitHub profile trophies"/>
 
 <br/><br/>
 
 ### 🌸 Profile Visitors
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visitors&color=8FAF93&style=for-the-badge" alt="GitHub profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=Oshini-Sandunika&label=Profile%20Visitors&color=8FAF93&style=for-the-badge" alt="GitHub profile visitor counter"/>
 
 </div>
 
@@ -571,21 +540,18 @@ My goal is to explore how **Artificial Intelligence**, **information systems**, 
 I am always happy to connect with fellow developers, researchers, students, recruiters, and professionals interested in technology and innovation.
 </p>
 
-<!-- REPLACE YOUR_LINKEDIN_USERNAME with your LinkedIn profile username or full profile URL -->
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="www.linkedin.com/in/oshini-mihindukulasuriya-3736bb276">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-87A98F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=52725A" alt="Connect with Oshini on LinkedIn"/>
 </a>
 
-<!-- REPLACE YOUR_EMAIL@example.com with your professional email address -->
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:oshinisandunika416@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-A8C3A0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6A8F73" alt="Email Oshini"/>
 </a>
 
-<!-- REPLACE YOUR_PORTFOLIO_URL with your portfolio website URL -->
 
-<a href="https://YOUR_PORTFOLIO_URL">
+<a href="https://oshini-sandunika.github.io/portfolio-oshini/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-E3EBD6?style=for-the-badge&logo=safari&logoColor=355E3B&labelColor=B6D0B8" alt="Visit Oshini's portfolio"/>
 </a>
 
